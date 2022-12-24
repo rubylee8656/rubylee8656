@@ -4,6 +4,8 @@
 
 - 📫 How to reach me: **rubylee8656@gmail.com**
 
+- Portfolio : **https://www.cakeresume.com/me/rubylee8656/portfolios**
+
 <h2 align="center">📓 Things I Have Ever Learned & ⌨️ Now I Code With</h2>
 
 <p>
