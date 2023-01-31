@@ -1,12 +1,14 @@
 <h1 align="center">Hi👋 I'm Min-Yi Lee</h1>
 
-- 🌱 I’m currently learning **web technology**
+- 🌱 I’m a front-end developer.
+
+- 🎓 Curently just graduated from iSpan
 
 - 📫 How to reach me: **rubylee8656@gmail.com**
 
-- Portfolio : **https://www.cakeresume.com/me/rubylee8656/portfolios**
+- 📓 Checkout my porfolio : **https://www.cakeresume.com/me/rubylee8656/portfolios**
 
-<h2 align="center">📓 Things I Have Ever Learned & ⌨️ Now I Code With</h2>
+<h2 align="center">⌨️ Things I Have Ever Learned</h2>
 
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -31,7 +33,15 @@
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
+<h2 align="center">✨ Recent Projects</h2>
+
+<img src="" style="width:50%"/>
+<img src="" style="width:50%"/>
+<img src="" style="width:50%"/>
+<img src="" style="width:50%"/>
+
 <h2 align="center">⭐️ My Github Stats:</h2>
+
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rubylee8656" />
 </p>
