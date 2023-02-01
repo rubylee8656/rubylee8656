@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **rubylee8656@gmail.com**
 
-- 📓 Checkout my Profile : [**https://www.cakeresume.com/me/rubylee8656/portfolios**](https://www.cakeresume.com/s--eL2NlWgVw51sQGpRw1pk1g--/rubylee8656)
+- 📓 Checkout my Profile : **https://www.cakeresume.com/s--eL2NlWgVw51sQGpRw1pk1g--/rubylee8656**
 
 <h2 align="center">⌨️ Things I Have Ever Learned</h2>
 
